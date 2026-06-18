@@ -1,0 +1,40 @@
+{
+  "bookTitle": {
+    "english": "Ashtavakra Gita",
+    "sanskrit": "अष्टावक्रगीता",
+    "iast": "aṣṭāvakragītā",
+    "meaning": "Song of Ashtavakra"
+  },
+  "geographicalSetting": {
+    "kingdom": "Mithila Kingdom",
+    "rulerAtTime": "Ugrasena Janaka"
+  },
+  "historicalIdentities": {
+    "ashtavakra": {
+      "profile": "Likely identical to the holy sage from the Mahabharata epic, representing the transcendency of the physical body over pure awareness."
+    },
+    "janaka": {
+      "profile": "Depicted as a king who attained complete perfection in the Vedas. Identified by some scholars as the father of Sita and direct disciple of sage Yajnavalkya in the Brihadaranyaka Upanishad."
+    }
+  },
+  "scholarlyDatingDebate": [
+    {
+      "scholar": "Radhakamal Mukerjee",
+      "designation": "Indian Social Scientist",
+      "estimatedTimeline": "500–400 BCE",
+      "context": "Placed immediately after the historical period of the Bhagavad Gita."
+    },
+    {
+      "scholar": "Sri Swami Shantananda Puri",
+      "designation": "Vedantic Monastic",
+      "estimatedTimeline": "Prior to 6th Century CE",
+      "context": "Argues it predates Gaudapada because it contains the unformed seed of Ajata Vada (the ultimate theory of non-creation)."
+    },
+    {
+      "scholar": "J. L. Brockington",
+      "designation": "Emeritus Professor of Sanskrit, University of Edinburgh",
+      "estimatedTimeline": "8th – 14th Century CE",
+      "context": "Attributes authorship either to a direct follower of Adi Shankara or during the 14th-century Vedantic resurgence."
+    }
+  ]
+}
